@@ -1,5 +1,5 @@
-#include <iostream>           //Roshan Tripathi          
-using namespace std;         //ECE SID:21105086
+#include <iostream>                     
+using namespace std;         
 
 /*
 
